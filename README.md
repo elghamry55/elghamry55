@@ -1,4 +1,4 @@
-💫 About Me:
+About Me:
 Hi, I'm Mahmoud Elghamry, a Flutter Developer passionate about building modern, scalable, and user-friendly mobile applications.<br><br>- 📱 Specialized in Flutter & Dart.<br>- 🔥 Experienced with Firebase, REST APIs, and State Management (Bloc/Cubit).<br>- 🏗️ Interested in Clean Architecture and writing maintainable code.<br>- 🚀 Always learning and improving my mobile development skills.
 
 
