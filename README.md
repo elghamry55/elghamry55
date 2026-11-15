@@ -53,91 +53,106 @@ I enjoy turning ideas into practical applications, integrating APIs and backend 
 
 ## 🚀 Featured Projects
 
-A selection of my projects that demonstrate mobile development, API integration, local persistence, state management, and practical problem-solving.
+<p align="center">
+  A selection of Flutter applications showcasing API integration, state management, local storage, and practical problem-solving.
+</p>
 
-### 1. [Safe Senior Future](https://github.com/elghamry55/Safe-Senior-Future)
-**Elderly Care & Health Monitoring Application**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/elghamry55/Safe-Senior-Future">Safe Senior Future</a></h3>
+      <strong>Elderly Care & Health Monitoring</strong>
+      <p>An integrated care solution connecting patients and family members through health tracking and assistance features.</p>
+      <ul>
+        <li>Patient and family dashboards</li>
+        <li>Heart rate, SpO₂, and temperature monitoring</li>
+        <li>Medication reminders and emergency alerts</li>
+        <li>Arabic/English support</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · Cubit · Firebase · Dio</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/elghamry55/laptop_store">Laptop Store</a></h3>
+      <strong>E-Commerce Mobile Application</strong>
+      <p>A shopping app for browsing laptop products and managing everyday shopping activities.</p>
+      <ul>
+        <li>Product listing through REST APIs</li>
+        <li>Favorites and shopping cart</li>
+        <li>API integration using Dio</li>
+        <li>Feature-oriented structure</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · BLoC/Cubit · Dio · REST API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ <a href="https://github.com/elghamry55/my_tasks">My Tasks</a></h3>
+      <strong>Task Management & Reminders</strong>
+      <p>A productivity app designed to organize tasks and keep deadlines on track.</p>
+      <ul>
+        <li>Create, update, complete, and delete tasks</li>
+        <li>Today, Tomorrow, and Upcoming categories</li>
+        <li>SQLite local persistence</li>
+        <li>Scheduled local notifications</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · Cubit · SQLite · Notifications</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/elghamry55/Talabaty">Talabaty | طلباتي</a></h3>
+      <strong>Arabic Order Management</strong>
+      <p>An Arabic-first app for managing customer orders and viewing essential order summaries.</p>
+      <ul>
+        <li>Add, edit, view, and delete orders</li>
+        <li>Order totals and dashboard summaries</li>
+        <li>Generate and share order images</li>
+        <li>RTL user interface</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · SharedPreferences · screenshot · share_plus</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/elghamry55/cipher_app">Cipher App</a></h3>
+      <strong>Encryption & Decryption</strong>
+      <p>An interactive app demonstrating classical encryption algorithms.</p>
+      <ul>
+        <li>Caesar, Rail Fence, and Vigenère ciphers</li>
+        <li>Encryption and decryption workflows</li>
+        <li>Configurable keys</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · Cubit</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/elghamry55/perceptron-x">PerceptronX</a></h3>
+      <strong>Interactive Perceptron Learning</strong>
+      <p>An educational app exploring a single-layer Perceptron through logic-gate experiments.</p>
+      <ul>
+        <li>Interactive AND, NAND, and XOR experiments</li>
+        <li>Training screens and visual feedback</li>
+        <li>Responsive interface</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · Cubit · ScreenUtil · fl_chart</sub>
+    </td>
+  </tr>
+</table>
 
-An integrated elderly-care mobile application connecting patients and family members through health monitoring and assistance features.
-
-- Patient and family dashboards with separate user flows.
-- Vital-sign monitoring for heart rate, SpO₂, and body temperature.
-- Medication scheduling and local reminders.
-- SOS requests, fall-alert updates, and emergency notifications.
-- Arabic/English localization and light/dark themes.
-
-**Technologies:** Flutter, Dart, Cubit, Firebase (Firestore, Realtime Database, FCM), Dio, Local Notifications.
-
-### 2. [Laptop Store](https://github.com/elghamry55/laptop_store)
-**E-Commerce Mobile Application**
-
-A shopping application for browsing laptop products and managing key shopping interactions.
-
-- Fetching product data from REST APIs using Dio.
-- Product browsing and favorites management.
-- Shopping cart functionality.
-- Feature-oriented structure with Cubit state management.
-
-**Technologies:** Flutter, Dart, flutter_bloc, Dio, REST API.
-
-### 3. [My Tasks](https://github.com/elghamry55/my_tasks)
-**Task Management & Reminder Application**
-
-A productivity app for organizing daily tasks and keeping track of deadlines.
-
-- Create, organize, complete, and delete tasks.
-- Group tasks into Today, Tomorrow, and Upcoming.
-- Store task data locally with SQLite.
-- Schedule local notifications for task reminders.
-- Light and dark theme support.
-
-**Technologies:** Flutter, Dart, Cubit, SQLite, Local Notifications.
-
-### 4. [Talabaty (طلباتي)](https://github.com/elghamry55/Talabaty)
-**Arabic Order Management Application**
-
-An Arabic-first application that helps manage customer orders and keep order details organized.
-
-- Add, edit, view, and delete customer orders.
-- Calculate order totals and display dashboard summaries.
-- Save order data locally.
-- Generate order details as images and share them.
-- Arabic RTL interface.
-
-**Technologies:** Flutter, Dart, SharedPreferences, screenshot, share_plus.
-
-### 5. [Cipher App](https://github.com/elghamry55/cipher_app)
-**Classical Encryption & Decryption Application**
-
-An interactive application implementing three classical cryptographic algorithms.
-
-- Caesar Cipher.
-- Rail Fence Cipher.
-- Vigenère Cipher.
-- Encryption and decryption with configurable keys.
-- Cubit-based state management.
-
-**Technologies:** Flutter, Dart, Cubit.
-
-### 6. [PerceptronX](https://github.com/elghamry55/perceptron-x)
-**Interactive Neural Network Learning Application**
-
-An educational application that explores the single-layer Perceptron through classic logic-gate experiments.
-
-- Interactive AND, NAND, and XOR experiments.
-- Dedicated training screens.
-- State management with Cubit.
-- Responsive interface.
-
-**Technologies:** Flutter, Dart, Cubit, flutter_screenutil, fl_chart.
+<p align="center">
+  <a href="https://github.com/elghamry55?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elghamry55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mahmoud's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghamry55&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://img.shields.io/github/followers/elghamry55?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <a href="https://github.com/elghamry55?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Public%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my repositories to see the code, implementation details, and technologies behind each project.</i>
 </p>
 
 ---
