@@ -112,17 +112,6 @@ I enjoy turning ideas into practical applications, integrating APIs and backend 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/elghamry55/cipher_app">Cipher App</a></h3>
-      <strong>Encryption & Decryption</strong>
-      <p>An interactive app demonstrating classical encryption algorithms.</p>
-      <ul>
-        <li>Caesar, Rail Fence, and Vigenère ciphers</li>
-        <li>Encryption and decryption workflows</li>
-        <li>Configurable keys</li>
-      </ul>
-      <sub><strong>Stack:</strong> Flutter · Dart · Cubit</sub>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/elghamry55/perceptron-x">PerceptronX</a></h3>
       <strong>Interactive Perceptron Learning</strong>
       <p>An educational app exploring a single-layer Perceptron through logic-gate experiments.</p>
@@ -132,6 +121,17 @@ I enjoy turning ideas into practical applications, integrating APIs and backend 
         <li>Responsive interface</li>
       </ul>
       <sub><strong>Stack:</strong> Flutter · Dart · Cubit · ScreenUtil · fl_chart</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/elghamry55/cipher_app">Cipher App</a></h3>
+      <strong>Encryption & Decryption</strong>
+      <p>An interactive app demonstrating classical encryption algorithms.</p>
+      <ul>
+        <li>Caesar, Rail Fence, and Vigenère ciphers</li>
+        <li>Encryption and decryption workflows</li>
+        <li>Configurable keys</li>
+      </ul>
+      <sub><strong>Stack:</strong> Flutter · Dart · Cubit</sub>
     </td>
   </tr>
 </table>
