@@ -33,7 +33,7 @@ I'm a **Flutter Developer** and Computer & Control Engineering graduate, interes
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/BLoC-00A6A6?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Dio-00A98F?style=for-the-badge&logo= dart&logoColor=white" alt="Dio" />
+  <img src="https://img.shields.io/badge/Dio-00A98F?style=for-the-badge&logo=dio&logoColor=white" alt="Dio" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=hive&logoColor=black" alt="Hive" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
